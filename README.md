@@ -2,7 +2,7 @@
 
 I'm Jonas, usually known under my username @jotoho online and currently a student of computer science at
 [South Westphalia University of Applied Sciences](https://www.fh-swf.de/en/international_3/index.php)
-(@fhswf here on GitHub).
+([@fhswf](https://github.com/fhswf) here on GitHub).
 
 Before beginning my studies in September of 2021, I attended [a vocational college in Olsberg,
 Germany](https://www.berufskolleg-olsberg.de) for three years where I successfully completed my
